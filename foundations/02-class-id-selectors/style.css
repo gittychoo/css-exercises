@@ -1,0 +1,15 @@
+.oddnumber{
+    background-color: red;
+}
+
+.numberthree{
+    font-size: 24px;
+}
+
+#numbertwo{
+    color:blue; font-size: 36px;
+}
+
+#numberfour{
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
